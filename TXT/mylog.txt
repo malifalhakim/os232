@@ -8,3 +8,6 @@ ZCZC W00 80 L09 Weekly Assignments
 ZCZC W00 100 L02 Classroom meeting
 ZCZC W00 40 L09 Weekly Assignments
 ZCZC W00 70 L09 Weekly Assignments
+ZCZC W00 15 L05 Dummy Quiz
+ZCZC W00 100 L02 Classroom meeting
+ZCZC W00 30 L09 Weekly Assignments
