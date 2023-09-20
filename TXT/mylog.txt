@@ -28,3 +28,5 @@ ZCZC W02 100 L02 Classroom meeting
 ZCZC W02 90 L09 Weekly Assignments
 ZCZC W02 90 L05 Study for Quiz
 ZCZC W02 20 L05 Quiz
+ZCZC W03 100 L02 Classroom meeting
+ZCZC W03 120 L09 Weekly Assignments
