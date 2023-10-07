@@ -37,3 +37,7 @@ ZCZC W03 20 L05 Quiz
 ZCZC W04 100 L02 Classroom meeting
 ZCZC W04 90 L09 Weekly Assignments
 ZCZC W04 120 L09 Weekly Assignments
+ZCZC W05 100 L02 Classroom meeting
+ZCZC W05 100 L02 Classroom meeting
+ZCZC W05 30 L05 Quiz
+ZCZC W05 200 L09 Weekly Assignments

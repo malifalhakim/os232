@@ -16,5 +16,7 @@ These tutorial will help us to edit file, create file, etc.
 * [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw) --- This video explaining basic understanding of Linux File Systems and its structure.
 * [How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/) --- This website will help us understanding about how to compress a directory in linux into tar and compress them again with xz.
 * [Basic Linux Directory Permissions and How to Check them](https://docs.rackspace.com/docs/basic-linux-directory-permissions-and-how-to-check-them) --- This website will help us understanding about directory permission and tell us how to check type of permission in a particular directory or folder.
+* [SCP Remote to Local](https://linuxhint.com/scp-remote-to-local/) --- This tutorial explains how to fetch files and directories from a remote host to our local device.
+* [How to Encrypt and Decrypt Files With GPG on Linux](https://www.howtogeek.com/427982/how-to-encrypt-and-decrypt-files-with-gpg-on-linux/) --- This article from How-To Geek provides a comprehensive guide on how to use the gpg command in Linux to encrypt and decrypt files.
 <br>
 <hr>
