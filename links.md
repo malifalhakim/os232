@@ -18,5 +18,8 @@ These tutorial will help us to edit file, create file, etc.
 * [Basic Linux Directory Permissions and How to Check them](https://docs.rackspace.com/docs/basic-linux-directory-permissions-and-how-to-check-them) --- This website will help us understanding about directory permission and tell us how to check type of permission in a particular directory or folder.
 * [SCP Remote to Local](https://linuxhint.com/scp-remote-to-local/) --- This tutorial explains how to fetch files and directories from a remote host to our local device.
 * [How to Encrypt and Decrypt Files With GPG on Linux](https://www.howtogeek.com/427982/how-to-encrypt-and-decrypt-files-with-gpg-on-linux/) --- This article from How-To Geek provides a comprehensive guide on how to use the gpg command in Linux to encrypt and decrypt files.
+* [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) --- This article explain about basic concept about fork process in operating system.
+* [fork in C](https://www.geeksforgeeks.org/fork-system-call/) --- This website will help us understanding about what is fork and especially how to implement fork call in C. This website give us many examples about fork implementation in C.
+* [Process Management(Processes and Threads)](https://youtu.be/OrM7nZcxXZU) --- This video will help us understanding about processes and threads concept.
 <br>
 <hr>
