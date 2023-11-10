@@ -21,5 +21,7 @@ These tutorial will help us to edit file, create file, etc.
 * [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) --- This article explain about basic concept about fork process in operating system.
 * [fork in C](https://www.geeksforgeeks.org/fork-system-call/) --- This website will help us understanding about what is fork and especially how to implement fork call in C. This website give us many examples about fork implementation in C.
 * [Process Management(Processes and Threads)](https://youtu.be/OrM7nZcxXZU) --- This video will help us understanding about processes and threads concept.
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) --- This article will help us understanding about process of synchronization.
+* [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=C3B81_4ESGt-e6TQ) --- This video will explain about concept of process synchronization.
 <br>
 <hr>
