@@ -23,5 +23,7 @@ These tutorial will help us to edit file, create file, etc.
 * [Process Management(Processes and Threads)](https://youtu.be/OrM7nZcxXZU) --- This video will help us understanding about processes and threads concept.
 * [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) --- This article will help us understanding about process of synchronization.
 * [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=C3B81_4ESGt-e6TQ) --- This video will explain about concept of process synchronization.
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/) --- This book really helped me in preparing to build linux from scratch.
+* [How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- This playlist really helped me to understand about the step in the linux from scratch book better.
 <br>
 <hr>
